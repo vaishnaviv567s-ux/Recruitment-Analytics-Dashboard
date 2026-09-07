@@ -25,7 +25,7 @@ To streamline the hiring process by:
 **Dashboard Design**
 
 <img width="2150" height="1518" alt="Recruitment_Analytics_Dashboard_Final xlsx (24)_page-0001" src="https://github.com/user-attachments/assets/f679f06f-1991-411f-905c-b7e0ce9f077b" />
-<img width="942" height="637" alt="RD-pIVOT Analysis" src="https://github.com/user-attachments/assets/dd0bbcd7-d603-45f8-9eb0-abd3bef70577" />
+<img width="2150" height="1518" alt="CANDIDATE DISTRIBUTION_page-0001" src="https://github.com/user-attachments/assets/9c8a7df6-9641-48e4-be8b-8fafd69cd822" />
 <img width="2150" height="1518" alt="cANDIDATE DATA (2)_page-0002" src="https://github.com/user-attachments/assets/14924b64-ddf2-4d81-b7dc-d21b4d50a8be" />
 <img width="2150" height="1518" alt="cANDIDATE DATA (2)_page-0001" src="https://github.com/user-attachments/assets/94f1303a-7ee3-4a6b-b833-5db3cf405bf7" />
 <img width="2150" height="1518" alt="JD (2)_page-0001" src="https://github.com/user-attachments/assets/59923f5f-4cac-4a08-a73e-34235257180f" />
